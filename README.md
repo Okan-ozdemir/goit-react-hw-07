@@ -1,3 +1,4 @@
+
 # Telefon Rehberi Uygulaması
 
 Bu proje, React ve Redux kullanılarak geliştirilmiş modern bir telefon rehberi uygulamasıdır.
@@ -64,3 +65,6 @@ src/
 - Redux Toolkit ile durum yönetimi
 - Redux Persist ile verilerin kalıcı saklanması
 - Modern CSS özellikleri ve responsive tasarım
+=======
+# goit-react-hw-07
+>>>>>>> 71d22fe64f139473ddb354ab46ee149e2e8a2c3f
