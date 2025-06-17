@@ -1,4 +1,4 @@
-
+<<<<<<< HEAD
 # Telefon Rehberi Uygulaması
 
 Bu proje, React ve Redux kullanılarak geliştirilmiş modern bir telefon rehberi uygulamasıdır.
